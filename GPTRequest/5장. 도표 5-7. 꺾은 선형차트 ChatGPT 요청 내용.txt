@@ -1,0 +1,6 @@
+Week 필드는 X축으로 하고. P, S와 I를 Y축으로해서 꺾은 추세선을 그려줘
+제목은 Weekly PSI  Trend로 표시
+P는 파란색. S는 빨간색, I는 녹색으로 표시
+범례는 P는 Production(P), S는 Sales(S), I는 Inventory(I)로 정리
+Y축값은 천단위씩 콤마를 사용
+X축 Week라고 표시
