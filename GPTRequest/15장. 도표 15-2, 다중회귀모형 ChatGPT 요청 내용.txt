@@ -1,0 +1,5 @@
+복합 SCFI를 종속변수로 갖는 다중 회귀모형을 만들어줘. 
+- SCFI_C: 복합SCFI, 종속변수 
+- 아래 변수는 모두 독립변수 후보이다. 
+YYYYMM 년월, CH_EXP 중국수출량, FLEET_DEV 명목선복량, CNTR_TIMECHART 용선료, WTI 유가, R_GDP_WORLD 글로벌 실질 GDP, DEFLATOR_WORLD 글로벌 물가, R_GDP_USA 미국 실질 GDP, CLI_USA 미국 경기선행지수, PMI_US 미국 구매자관리지수, DEFLATOR_USA 미국 물가. G_RELI 선박의 글로벌 정시성, G_DELAY 선박의 글로벌 지연일수 
+- 답변은 한글로 작성해줘
