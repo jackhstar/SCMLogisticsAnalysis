@@ -1,0 +1,4 @@
+# 한글 폰트 설치, ! 명령어는 코랩에서 시스템 명령어를 실행하게 해준다.
+!sudo apt-get install -y fonts-nanum    
+!sudo fc-cache -fv
+!rm ~/.cache/matplotlib -rf

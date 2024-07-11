@@ -1,0 +1,16 @@
+import matplotlib.pyplot as plt
+import matplotlib.font_manager as fm
+
+# 폰트 경로를 지정한다.
+font_path = '/usr/share/fonts/truetype/nanum/NanumBarunGothic.ttf'  # 예시 경로
+# 폰트 이름을 가져온다.
+font_name = fm.FontProperties(fname=font_path, size=10).get_name()
+
+# Matplotlib의 rcParams에 폰트를 지정한다.
+plt.rcParams['font.family'] = font_name
+
+# 테스트용 그래프를 그린다.
+plt.figure()
+plt.plot([1, 2, 3], [1, 2, 3])
+plt.title('테스트')
+plt.show()
