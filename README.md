@@ -8,11 +8,11 @@ Lecture_NewInfo 폴더에
 
 (1) 퍼플 도서의 오타 수정 및 개선 내용이 있습니다(2024 7/20)
 
-    - '24년 7/29일 전에 출고된 도서에 해당함('24년 7/29일 출고도서는 수정 내용 반영된 상태임)
+    - '24년 7/27일 전에 출고된 도서에 해당함('24년 7/27일 출고도서는 수정 내용 반영된 상태임)
     
     - e-Book은 기 Updated 된 상태임
 
- (2) 단, 아래 페이지 미 반영 상태로 Factor 단어 추가, Review Time --> Review Time Factor 로 수정 
+ (2) 단, 아래 페이지 미 반영 상태로 Factor 단어 추가, Review Time --> Review Time Factor 로 수정 필요 
  
      p224 7째 줄, p229 밑에서 4번쨰 줄 (수정 후) 재고점검주기 * Review Time Factor
     
