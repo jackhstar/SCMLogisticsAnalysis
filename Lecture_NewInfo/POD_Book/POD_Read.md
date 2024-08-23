@@ -9,7 +9,7 @@ Lecture_NewInfop/POD_Book/ 폴더에
 
  (2) 단, 아래 페이지 미 반영 상태로 Factor 단어 추가, Review Time --> Review Time Factor 로 수정 필요 
  
-     p224 7째 줄, p229 밑에서 4번쨰 줄 (수정 후) 재고점검주기 * Review Time Factor
+     p224 7째 줄, p229 밑에서 4번째 줄 (수정 후) 재고점검주기 * Review Time Factor
     
     
 (3) 중앙대학교 국제물류학과 학생들을 대상으로 2024. 7. 15 ~ 7.26(총 40 시간 강의 및 프로젝트 발표/멘토링) 동안 진행한 여름방학 특강에서
