@@ -1,7 +1,10 @@
-(1) 한국생산성본부에서'SCM 재고 최적화 전략(ChatGPT 활용)'과 'SCM 운영모델과 ChatGPT 실무적용'과정'을 통해 본 도서의 일부 내용이 저자 직강으로 운영되고 있습니다(아래 밑줄 클릭하여 한국생산성본부 사이트 접속, 강력 추천, 도서 제공).
-   - Lecture_NewInfo/[한국생산성본부_SCM 재고 최적화 전략(ChatGPT 활용)_커리큐럼(황종원박사).pdf](https://kpc.or.kr/PTWED003_dtil_view.do?ecno=47833<img width="1058" height="88" alt="image" src="https://github.com/user-attachments/assets/ca58cb96-3c93-4419-bf58-74e25bf17e17" />
-) 참조(2일 과정)
-   - Lecture_NewInfo/[한국생산성본부_SCM 운영모델과 ChatGPT 실무적용_커리큐럼_(황종원박사).pdf](https://www.kpc.or.kr/PTWED003_dtil_view.do?ecno=45746) 참조(3일 과정)
+(1) 한국생산성본부에서'ChatGPT 활용 SCM 재고 최적화 전략'과 '공급망관리(SCM) 운영모델 혁신(ChatGPT 활용)'과정'을 통해 본 도서의 일부 내용이 저자 직강으로 운영되고 있습니다(아래 밑줄 클릭하여 한국생산성본부 사이트 접속, 강력 추천, 도서 제공).
+   - Lecture_NewInfo/[한국생산성본부_ChatGPT 활용 SCM 재고 최적화 전략_커리큐럼(황종원박사).pdf](https://kpc.or.kr/PTWED003_dtil_view.do?ecno=47833) 참조(2일 과정)
+   - Lecture_NewInfo/[한국생산성본부_공급망관리(SCM) 운영모델 혁신(ChatGPT 활용) 커리큐럼(황종원박사).pdf](https://www.kpc.or.kr/PTWED003_dtil_view.do?ecno=47835) 참조(3일 과정)
+     
+   - 아래 강좌는 저자의 도서 "물류데이터 사이언스와 ChatGPT 활용"을 바탕으로 강의한다. 
+     Lecture_NewInfo/[한국생산성본부_ChatGPT활용 물류 운영 최적화_커리큐럼(황종원박사).pdf](https://kpc.or.kr/PTWED003_dtil_view.do?ecno=47840) 참조(2일 과정)
+     
         
 (2) 한국생산성본부의 '물류담당자업무능력향상(3일 과정)' 중 마지막 3일차의 오후 과정에 본 도서의 일부 내용이 저자 직강으로 운영되고 있습니다.
 
