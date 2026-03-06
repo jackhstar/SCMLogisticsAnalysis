@@ -1,0 +1,25 @@
+https://www.openai.com/chatgpt
+https://colab.research.google.com/
+
+https://www.perplexity.ai/
+https://www.gamsgo.com/
+
+[Custom GPT]
+1) 회의록 작성  
+https://chatgpt.com/g/g-67aebe18c8b48191ad6c8f8003ce4735-hoeyirog-jagseonghagiv2-0
+
+2) 재고실사 취합
+https://chatgpt.com/g/g-67b27367c0a88191a8c77de2f41f4cb2-jaegosilsa-cwihabgi
+
+3) 중소기업  디지털 서비스 R&D 로드맵
+https://chatgpt.com/g/g-67ac51b6ab4c8191a1123b61c4124a7a-jungsogieob-dijiteolseobiseu-r-d-rodeumaeb
+
+[기타]
+https://github.com/jackhstar/SCMLogisticsAnalysis
+https://app.cellosquare.com/login
+https://github.com/jackhstar/LogisticsDataScience
+
+[강의소개]
+https://kpc.or.kr/PTWED003_dtil_view.do?ecno=47833
+https://www.kpc.or.kr/PTWED003_dtil_view.do?ecno=47835
+https://kpc.or.kr/PTWED003_dtil_view.do?ecno=47840
